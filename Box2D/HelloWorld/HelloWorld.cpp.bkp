@@ -17,7 +17,6 @@
 */
 
 #include <Box2D/Box2D.h>
-#include "android.h"
 
 #include <cstdio>
 using namespace std;
@@ -29,7 +28,6 @@ using namespace std;
 // with your rendering engine in your game engine.
 int main(int argc, char** argv)
 {
-        LOGD("Starting the Hello World Demo");
 	B2_NOT_USED(argc);
 	B2_NOT_USED(argv);
 
@@ -98,7 +96,7 @@ int main(int argc, char** argv)
 		b2Vec2 position = body->GetPosition();
 		float32 angle = body->GetAngle();
 
-		LOGD("%4.2f %4.2f %4.2f\n", position.x, position.y, angle);
+		printf("%4.2f %4.2f %4.2f\n", position.x, position.y, angle);
 	}
 
 	// When the world destructor is called, all bodies and joints are freed. This can

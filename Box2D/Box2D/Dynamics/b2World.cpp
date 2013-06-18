@@ -33,7 +33,7 @@
 #include <Box2D/Common/b2Draw.h>
 #include <Box2D/Common/b2Timer.h>
 #include <new>
-
+// b2World::b2World(b2Vec2 const& gravity)
 b2World::b2World(const b2Vec2& gravity)
 {
 	m_destructionListener = NULL;
