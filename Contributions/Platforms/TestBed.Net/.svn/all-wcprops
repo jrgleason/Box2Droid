@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/Contributions/Platforms/TestBed.Net
+END
+MainWindow.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/Contributions/Platforms/TestBed.Net/MainWindow.Designer.cs
+END
+MainWindow.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/Contributions/Platforms/TestBed.Net/MainWindow.cs
+END
+Test.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/Contributions/Platforms/TestBed.Net/Test.cs
+END
+Settings.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/Contributions/Platforms/TestBed.Net/Settings.cs
+END
+Renderer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/Contributions/Platforms/TestBed.Net/Renderer.cs
+END
+Program.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/Contributions/Platforms/TestBed.Net/Program.cs
+END
+MainWindow.resx
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/Contributions/Platforms/TestBed.Net/MainWindow.resx
+END
+TestBed.Net.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/Contributions/Platforms/TestBed.Net/TestBed.Net.csproj
+END

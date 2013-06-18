@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/172/trunk/Contributions/Platforms/iPhone
+END
+main.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/Contributions/Platforms/iPhone/main.m
+END
+Info.plist.in
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/172/trunk/Contributions/Platforms/iPhone/Info.plist.in
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/172/trunk/Contributions/Platforms/iPhone/CMakeLists.txt
+END
+MainWindow.xib
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/Contributions/Platforms/iPhone/MainWindow.xib
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/247/trunk/Box2D/Build/vs2010
+END
+Box2D.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/247/trunk/Box2D/Build/vs2010/Box2D.vcxproj.filters
+END
+GLUI.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/221/trunk/Box2D/Build/vs2010/GLUI.vcxproj.filters
+END
+Testbed.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/247/trunk/Box2D/Build/vs2010/Testbed.vcxproj
+END
+HelloWorld.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/225/trunk/Box2D/Build/vs2010/HelloWorld.vcxproj
+END
+FreeGLUT.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/225/trunk/Box2D/Build/vs2010/FreeGLUT.vcxproj
+END
+Box2D.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/247/trunk/Box2D/Build/vs2010/Box2D.vcxproj
+END
+Box2D.sln
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/221/trunk/Box2D/Build/vs2010/Box2D.sln
+END
+GLUI.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/225/trunk/Box2D/Build/vs2010/GLUI.vcxproj
+END
+Testbed.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/247/trunk/Box2D/Build/vs2010/Testbed.vcxproj.filters
+END
+HelloWorld.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/220/trunk/Box2D/Build/vs2010/HelloWorld.vcxproj.filters
+END
+FreeGLUT.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/221/trunk/Box2D/Build/vs2010/FreeGLUT.vcxproj.filters
+END

@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/Contributions/Platforms/Box2D.Net
+END
+Stdafx.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/Contributions/Platforms/Box2D.Net/Stdafx.h
+END
+Shape.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/Contributions/Platforms/Box2D.Net/Shape.cpp
+END
+ShapeType.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/Contributions/Platforms/Box2D.Net/ShapeType.cpp
+END
+JointDef.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/Contributions/Platforms/Box2D.Net/JointDef.cpp
+END
+Vector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/Contributions/Platforms/Box2D.Net/Vector.cpp
+END
+ManifoldPoint.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/Contributions/Platforms/Box2D.Net/ManifoldPoint.cpp
+END
+Matrix.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/Contributions/Platforms/Box2D.Net/Matrix.cpp
+END
+Shape.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/Contributions/Platforms/Box2D.Net/Shape.h
+END
+RevoluteJoint.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/Contributions/Platforms/Box2D.Net/RevoluteJoint.cpp
+END
+BodyDef.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/Contributions/Platforms/Box2D.Net/BodyDef.cpp
+END
+ShapeDef.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/Contributions/Platforms/Box2D.Net/ShapeDef.cpp
+END
+VariousImplementations.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/Contributions/Platforms/Box2D.Net/VariousImplementations.cpp
+END
+Joint.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/Contributions/Platforms/Box2D.Net/Joint.cpp
+END
+Box2D.Net.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/Contributions/Platforms/Box2D.Net/Box2D.Net.vcproj
+END
+AABB.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/Contributions/Platforms/Box2D.Net/AABB.cpp
+END
+World.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/Contributions/Platforms/Box2D.Net/World.cpp
+END
+Manifold.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/Contributions/Platforms/Box2D.Net/Manifold.cpp
+END
+Contact.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/Contributions/Platforms/Box2D.Net/Contact.cpp
+END
+XForm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/Contributions/Platforms/Box2D.Net/XForm.cpp
+END
+AssemblyInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/Contributions/Platforms/Box2D.Net/AssemblyInfo.cpp
+END
+Body.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/Contributions/Platforms/Box2D.Net/Body.cpp
+END
+MassData.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/Contributions/Platforms/Box2D.Net/MassData.cpp
+END
+Delegates.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/Contributions/Platforms/Box2D.Net/Delegates.cpp
+END
